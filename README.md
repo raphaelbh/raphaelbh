@@ -6,7 +6,7 @@ Currently working as tech lead at Zup Innovation.
 My goal wherever I go is make **the complex into simple** and I truly believe in **keep it simple**.
 
 
-## Technologies
+## Tech Stack
 
 [![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -20,7 +20,7 @@ My goal wherever I go is make **the complex into simple** and I truly believe in
 [![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
 
-## Contact
+## Connect with me
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelbh/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/raphaelbh)
