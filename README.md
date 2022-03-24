@@ -5,8 +5,6 @@ Currently working as tech lead at Zup Innovation.
 
 My goal wherever I go is make **the complex into simple** and I truly believe in **keep it simple**.
 
-github
-dev.to
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelbh/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/raphaelbh)
@@ -26,14 +24,6 @@ dev.to
 [![kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-
-
-
-
-
-
-
-
 
 
 <!--
