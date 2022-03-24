@@ -1,4 +1,4 @@
-# keep it simple
+<h1 align="center">keep it simple</h1>
 
 ### hi there 👋
 
