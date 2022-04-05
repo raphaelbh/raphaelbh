@@ -4,8 +4,7 @@
 
 - I'm [Raphael Oliveira](http://raphaeloliveira.com.br), a software engineer from Brazil
 - Currently working as tech lead at [Zup Innovation](https://www.zup.com.br/)
-- Working for `make the complex into simple`
-
+- Working to `make the complex into simple` for the work team
 
 ### Tech Stack
 
